@@ -6,3 +6,5 @@ __pycache__/
 # Pesos entrenados: no se versiona un model.pt genérico -- cada quien
 # lo regenera corriendo train.py, o usa el suyo propio de Colab.
 *.pt
+!model.pt
+
